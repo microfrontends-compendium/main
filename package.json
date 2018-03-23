@@ -1,0 +1,29 @@
+{
+  "name": "microfrontend-compendium",
+  "version": "1.0.0",
+  "description": "This is a compendium of articles and git submodules related to microfrontend",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microfrontends-compendium/main.git"
+  },
+  "keywords": [
+    "microfrontend",
+    "single-spa",
+    "microservices",
+    "front",
+    "s-spa"
+  ],
+  "author": "Rodrigo Erades <rerades@siete3.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/microfrontends-compendium/main/issues"
+  },
+  "homepage": "https://github.com/microfrontends-compendium/main#readme"
+}

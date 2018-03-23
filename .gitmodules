@@ -1,0 +1,3 @@
+[submodule "repos/eev"]
+	path = repos/eev
+	url = https://github.com/microfrontends-compendium/eev.git
