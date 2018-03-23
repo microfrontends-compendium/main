@@ -1,2 +1,77 @@
-# main
-main repo with info and projects about microfrontends
+# MICRO FRONTENDS COMPENDIUM
+
+## Index
+* [Motivation](#Motivation)
+* [Screenshots](#Screenshots)
+* [Build status](#Build-status)
+* [Getting Started](#Getting-Started)
+  * [Prerequisites](#Prerequisites)
+  * [Installing](#Installing)
+* [Running tests](#Running-the-tests)
+  * [Unit tests](#unit-tests)
+  * [Running end-to-end yest](#end2end-tests)
+  * [And coding style tests](#coding-style-tests)
+* [Deployment](#Deployment)
+* [Built With](#Built-With)
+* [Contributing](#Contributing)
+* [Versioning](#Versioning)
+* [Authors](#Authors)
+* [License](#License)
+* [Acknowledgments](#Acknowledgments)
+
+
+## <a name="Motivation">Motivation</a>
+TODO
+
+## <a name="Screenshots">Screenshots</a>
+TODO
+
+## <a name="Build-status">Build status</a>
+TODO
+
+## <a name="Getting-Started">Getting Started</a>
+TODO
+
+### <a name="Prerequisites"> Prerequisites</a>
+TODO
+
+### <a name="Installing">Installing</a>
+TODO
+
+## <a name="Running-the-tests">Running the tests</a>
+
+### <a name="unit-tests">Unit test</a>
+TODO
+
+### <a name="end2end-tests">Running end-to-end test</a>
+TODO
+
+### <a name="coding-style-tests">And coding style tests</a>
+TODO
+
+## <a name="Deployment">Deployment</a>
+TODO
+
+## <a name="Built-With">Built With</a>
+TODO
+
+## <a name="Contributing">Contributing</a>
+
+Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
+
+## <a name="Versioning">Versioning</a>
+TODO
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## <a name="Authors">Authors</a>
+
+* **Rodrigo Erades** - *Initial work* - [area73](https://github.com/area73)
+TODO:
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## <a name="License">License</a>
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## <a name="Acknowledgments">Acknowledgments</a>
+TODO
