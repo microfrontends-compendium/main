@@ -10,3 +10,9 @@
 [submodule "repos/chrisdavies/eev"]
 	path = repos/chrisdavies/eev
 	url = https://github.com/microfrontends-compendium/eev.git
+[submodule "repos/daniele-zurico/microfrontend-mgmt-container"]
+	path = repos/daniele-zurico/microfrontend-mgmt-container
+	url = https://github.com/microfrontends-compendium/microfrontend-mgmt-container.git
+[submodule "repos/daniele-zurico/microservice-test"]
+	path = repos/daniele-zurico/microservice-test
+	url = https://github.com/microfrontends-compendium/microservice-test.git

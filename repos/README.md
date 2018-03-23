@@ -14,3 +14,6 @@ A WIP about micro frontends associated to  [micro-frontends.org](http://micro-fr
 
 ### daniele-zurico/microfrontend-com-channel
 A library that allow communication between different apps
+
+### daniele-zurico/microfrontend-mgmt-container
+A container example to use the library for the com channel
