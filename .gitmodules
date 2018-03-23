@@ -1,3 +1,12 @@
 [submodule "repos/eev"]
 	path = repos/eev
 	url = https://github.com/microfrontends-compendium/eev.git
+[submodule "repos/neuland/micro-frontends"]
+	path = repos/neuland/micro-frontends
+	url = https://github.com/microfrontends-compendium/micro-frontends.git
+[submodule "repos/daniele-zurico/microfrontend-com-channel"]
+	path = repos/daniele-zurico/microfrontend-com-channel
+	url = https://github.com/microfrontends-compendium/microfrontend-com-channel.git
+[submodule "repos/chrisdavies/eev"]
+	path = repos/chrisdavies/eev
+	url = https://github.com/microfrontends-compendium/eev.git
