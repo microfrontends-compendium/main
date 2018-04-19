@@ -28,8 +28,8 @@ I adopted the use of [Architecture Decision Record (ADR)](https://github.com/joe
  
 
 ## <a name="file-structure">File structure</a>
-|- ADR      ---> contains all the ADR files.
-|- docs     ---> Contains a lor of information about microfrontends. These are articles grabbed from the web and converted into pdf for an easy lecture
+|- ADR      ---> contains all the ADR files.<br>
+|- docs     ---> Contains a lot of information about microfrontends. These are articles grabbed from the web and converted into pdf for an easy lecture
 
 ## <a name="Screenshots">Screenshots</a>
 TODO
