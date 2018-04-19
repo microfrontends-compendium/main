@@ -22,8 +22,8 @@
 
 
 ## <a name="Motivation">Motivation</a>
-The main motivation to create this repo was to glue all the information that I recollect about microfrontends.
-In this repo you can find articles from thew web (converted to pdf file format), nd repos dealing whit this particular issue.
+The main motivation to create this repo was to glue all the information that I collect about microfrontends.
+In this repo you can find articles from the web (converted to pdf file format), and repos dealing with this particular issue.
 I adopted the use of [Architecture Decision Record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) in order to log all my architectural decision so any one can easily follow what I'm doing, and of course for me to remember what I did XD
  
 
